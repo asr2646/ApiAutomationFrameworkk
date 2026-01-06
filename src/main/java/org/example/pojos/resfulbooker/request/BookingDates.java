@@ -1,4 +1,4 @@
-package org.example.pojos.request;
+package org.example.pojos.resfulbooker.request;
 
 public class BookingDates {
     private String checkin;

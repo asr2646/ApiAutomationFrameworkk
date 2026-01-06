@@ -1,6 +1,6 @@
-package org.example.pojos.response;
+package org.example.pojos.resfulbooker.response;
 
-import org.example.pojos.request.Booking;
+import org.example.pojos.resfulbooker.request.Booking;
 
 public class BookingResponse {
     private Integer bookingid;

@@ -1,4 +1,4 @@
-package org.example.pojos.response;
+package org.example.pojos.resfulbooker.response;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
