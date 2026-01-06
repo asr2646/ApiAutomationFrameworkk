@@ -70,13 +70,13 @@
       <version>2.20.1</version>
     </dependency>
 
+
     <!-- Allure TestNG -->
-    <!-- Allure TestNG -->
+    <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
     <dependency>
       <groupId>io.qameta.allure</groupId>
       <artifactId>allure-testng</artifactId>
-      <version>2.25.0</version>
-      <scope>test</scope>
+      <version>2.32.0</version>
     </dependency>
 
 
